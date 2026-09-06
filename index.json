@@ -28,6 +28,29 @@
                                                                                                             },
                                                                                           "url":  "https://github.com/Torateihen/SwayGenKit/releases/download/1.0.0/com.blueberryeye.sway-gen-kit-1.0.0.zip",
                                                                                           "zipSHA256":  "4256b07ce9ff5b4179d7b8ea6b25450a5a4a0ea7f17f5e2e4b4f785adf632fab"
+                                                                                      },
+                                                                            "1.1.0":  {
+                                                                                          "name":  "com.blueberryeye.sway-gen-kit",
+                                                                                          "displayName":  "松川怒りの揺れボーン自動生成",
+                                                                                          "version":  "1.1.0",
+                                                                                          "unity":  "2022.3",
+                                                                                          "description":  "揺らしたいものを入れてボタン1つ。骨があればPhysBoneを付け、無ければメッシュの形から骨を作って揺れるようにするエディタ拡張。Blenderは要りません。",
+                                                                                          "author":  {
+                                                                                                         "name":  "ブルーベリーアイ松川",
+                                                                                                         "url":  "https://bbeyemtkw.booth.pm/"
+                                                                                                     },
+                                                                                          "keywords":  [
+                                                                                                           "vrchat",
+                                                                                                           "avatar",
+                                                                                                           "physbone",
+                                                                                                           "bone",
+                                                                                                           "sway"
+                                                                                                       ],
+                                                                                          "legacyFolders":  {
+                                                                                                                "Assets\\SwayGenKit":  ""
+                                                                                                            },
+                                                                                          "url":  "https://github.com/Torateihen/SwayGenKit/releases/download/1.1.0/com.blueberryeye.sway-gen-kit-1.1.0.zip",
+                                                                                          "zipSHA256":  "4268a5151571e4808234127a41133e6dec38a69a41aecc628e49841b4bbd376a"
                                                                                       }
                                                                         }
                                                        }
